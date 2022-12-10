@@ -5,5 +5,6 @@ npm install
 # JWT_KEY=
 # JWT_LIFE_TIME=
 
-Client
+Client(Vue)
 # npm install
+# npm run serve
